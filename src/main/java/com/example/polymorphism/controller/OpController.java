@@ -1,5 +1,9 @@
-package com.example.polymorphism;
+package com.example.polymorphism.controller;
 
+import com.example.polymorphism.repository.SalesTransactionRepository;
+import com.example.polymorphism.model.Bus;
+import com.example.polymorphism.model.SaleTransaction;
+import com.example.polymorphism.model.Truck;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.example.polymorphism;
+package com.example.polymorphism.model;
 import java.util.Date;
 
 import javax.persistence.Column;

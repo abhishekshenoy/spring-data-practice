@@ -1,4 +1,4 @@
-package com.example.polymorphism;
+package com.example.polymorphism.model;
 
 public interface Vehicle {
 
